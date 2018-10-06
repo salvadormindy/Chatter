@@ -1,6 +1,6 @@
 # chatter
 
-FIXME
+My Project Clojure
 
 ## Prerequisites
 
